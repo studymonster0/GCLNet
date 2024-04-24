@@ -1,2 +1,2 @@
 # GCLNet
-![主体框架1](https://github.com/studymonster0/GCLNet/assets/109121705/5fb0df34-4af0-4a4b-8a07-4de61a595f2a)
+The detection results of GCLNet, along with the datasets used for experiments, are provided at https://pan.baidu.com/s/1z-BD28Jvke-wW7wmMW5QJQ=gcnt
