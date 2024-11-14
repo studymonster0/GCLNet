@@ -20,7 +20,7 @@ This is the official implementation code for Graph-based context learning networ
 The training and testing experiments are conducted using PyTorch with a single GeForce RTX 3080 GPU.
 
 ## Pretrained models
-Google Drive: https://drive.google.com/drive/folders/1121Lw6sCxflmFHe1mobThdHR-8N4vJoe?usp=sharing
+Google Drive: [[download]](https://drive.google.com/drive/folders/1121Lw6sCxflmFHe1mobThdHR-8N4vJoe?usp=sharing)
 
 ### Training
 ```python  
