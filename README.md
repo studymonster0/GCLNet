@@ -31,3 +31,7 @@ python train.py
 ```python  
 python test.py  
 ```
+
+## Acknowledgements
+This project is based on the following open-source projects. We thank their authors for making the source code publically available.
+  * [BasicIRSTD](https://github.com/XinyiYing/BasicIRSTD)
