@@ -1,5 +1,5 @@
 # GCLNet
-More detailed information is provided below.
+This is the official implementation code for Graph-based context learning network for infrared small target detection. More detailed information is provided below.
 
 ## Requirements
 * Python 3.7
