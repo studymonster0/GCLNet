@@ -1,5 +1,5 @@
 # GCLNet
-This is the official implementation code for Graph-based context learning network for infrared small target detection. More detailed information is provided below.
+This is the official implementation code for “[Graph-based context learning network for infrared small target detection](https://www.sciencedirect.com/science/article/abs/pii/S092523122401720X)”. More detailed information is provided below.
 <div align="center">
   <img src="./images/OA.png">
   Overview of the proposed GCLNet for infrared small object detection.
@@ -19,7 +19,7 @@ This is the official implementation code for Graph-based context learning networ
 ## Experiments
 The training and testing experiments are conducted using PyTorch with a single GeForce RTX 3080 GPU.
 
-## Pretrained models
+### Pretrained models
 Google Drive: [[download]](https://drive.google.com/drive/folders/1121Lw6sCxflmFHe1mobThdHR-8N4vJoe?usp=sharing)
 
 ### Training
